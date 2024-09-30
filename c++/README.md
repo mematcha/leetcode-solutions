@@ -1,0 +1,1 @@
+This folder deals with all of my leetcode solutions, written in C++.
